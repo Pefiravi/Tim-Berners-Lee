@@ -1,0 +1,42 @@
+#welcome{
+    background-color: limegreen;
+    text-align: center;
+    border: 10px solid greenyellow;
+    border-radius: 10px;
+}
+img{
+    border: 10px solid red;
+    border-radius: 10px;
+}
+body{
+    background-color: aqua;
+    color: greenyellow;
+}
+#bio{
+    color: salmon;
+    border: 10px solid blue;
+    background-color: rgb(173, 0, 0);
+    border-radius: 10px;
+    text-shadow: 2px 1px black;
+    text-align: center;
+}
+ul{
+    border: 10px solid salmon;
+    background-color: rgb(238, 115, 102);
+    border-radius: 10px;
+}
+a{
+    color: rgb(173, 0, 0);
+}
+#videos{
+    text-align: center;
+    border: 10px solid blueviolet;
+    border-radius: 10px;
+    background-color: violet;
+    color: azure;
+    text-shadow: 2px 1px black;
+}
+iframe{
+    border: 10px solid hotpink;
+    border-radius: 10px;
+}
